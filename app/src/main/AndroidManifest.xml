@@ -15,7 +15,6 @@
         android:icon="@mipmap/ic_launcher"
         android:label="GemGPT"
         android:roundIcon="@mipmap/ic_launcher_round"
- android:icon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/Theme.GemGPT">
         <activity
